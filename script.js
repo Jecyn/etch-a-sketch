@@ -36,7 +36,6 @@ function setGridNumber() {
     input = prompt("Please type in a grid size from 0 to 100: ")
     if (input > 100){
         currentGridNumber = 100
-
     }
     else{
         currentGridNumber = input
