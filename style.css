@@ -10,8 +10,11 @@
     
 }
 
-.grid-container{
+button{
     margin-top: 100px;
+    margin-bottom: 10px;
+}
+.grid-container{
     display: flex;
     flex-wrap: wrap;
     width: 480px;
